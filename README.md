@@ -1,3 +1,13 @@
+<p align="center">
+  <a href='#'>
+    <img 
+      src="https://www.nattanan.kim/_next/image?url=%2Fimg%2Fprojects%2Fgo-chat-backend-thumb.png&w=750&q=75"
+      alt="https://iconbu.com/illust/4214"
+      width="200"
+    />
+  </a>
+</p>
+
 # go-chat-backend
 
 Chat backend implemented in Go, following a modular monolith architecture with support for REST, gRPC, WebSocket APIs, and RabbitMQ-based messaging.
